@@ -23,17 +23,14 @@
 ## Используемый стек технологий:
 Pandas, numpy, scikit-learn, torch, lightgbm, sentence-transformers, langdetect, pandarallel, requests, joblib, pillow, musicbrainzngs, lyricsgenius, matplotlib, seaborn, colorama.
 
-Более подробную информацию о стеке и зависимостях описали в файле [requirements.txt](https://github.com/Learningsome/hackaton-yandex-music/blob/main/requirements.txt)
-
-## Структура проекта
-Исследования проводились каждым участником в своей папке репозитория (папки названы по ФИО участника).
+Более подробную информацию о стеке и зависимостях описали в файле [requirements.txt](https://github.com/nikiforovaks/hackaton-yandex-music/requirements.txt)
 
 Решение:
-Подробное решение описано в папке [solutiion](https://github.com/Learningsome/hackaton-yandex-music/tree/main/solution), в которой находятся 4 тетрадки, каждая из которых выполняет свою функцию:
-- [Парсинг данных](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/01-text-parsing.ipynb)
-- [Предварительная обработка данных](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/02-data-preprocessing.ipynb)
-- [Кодирование текстов песен в эмбеддинги](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/03-text-encoding.ipynb)
-- [Классификация треков + группировка каверов и исходных треков](https://github.com/Learningsome/hackaton-yandex-music/blob/main/solution/04-tracks-classification-and-grouping.ipynb)
+Подробное решение описано в папке [solutiion](https://github.com/nikiforovaks/hackaton-yandex-music/solution), в которой находятся 4 тетрадки, каждая из которых выполняет свою функцию:
+- [Парсинг данных](https://github.com/nikiforovaks/hackaton-yandex-music/solution/01-text-parsing.ipynb)
+- [Предварительная обработка данных](https://github.com/nikiforovaks/hackaton-yandex-music/solution/02-data-preprocessing.ipynb)
+- [Кодирование текстов песен в эмбеддинги](https://github.com/nikiforovaks/hackaton-yandex-music/solution/03-text-encoding.ipynb)
+- [Классификация треков + группировка каверов и исходных треков](https://github.com/nikiforovaks/hackaton-yandex-music/solution/04-tracks-classification-and-grouping.ipynb)
 
 ## Вывод
 В результате исследования были построены 2 модели:
